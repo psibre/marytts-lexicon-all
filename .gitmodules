@@ -13,3 +13,6 @@
 [submodule "marytts-lexicon-it"]
 	path = marytts-lexicon-it
 	url = https://github.com/marytts/marytts-lexicon-it.git
+[submodule "marytts-lexicon-ru"]
+	path = marytts-lexicon-ru
+	url = https://github.com/marytts/marytts-lexicon-ru.git
