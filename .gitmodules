@@ -1,3 +1,6 @@
 [submodule "gradle-marytts-lexicon-compiler-plugin"]
 	path = gradle-marytts-lexicon-compiler-plugin
 	url = https://github.com/marytts/gradle-marytts-lexicon-compiler-plugin.git
+[submodule "marytts-lexicon-de"]
+	path = marytts-lexicon-de
+	url = https://github.com/marytts/marytts-lexicon-de.git

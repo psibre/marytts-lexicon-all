@@ -1,1 +1,2 @@
 includeBuild 'gradle-marytts-lexicon-compiler-plugin'
+include 'marytts-lexicon-de'
