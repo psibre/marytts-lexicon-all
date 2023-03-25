@@ -7,3 +7,6 @@
 [submodule "marytts-lexicon-en_US-cmudict"]
 	path = marytts-lexicon-en_US-cmudict
 	url = https://github.com/marytts/marytts-lexicon-en_US-cmudict.git
+[submodule "marytts-lexicon-fr"]
+	path = marytts-lexicon-fr
+	url = https://github.com/marytts/marytts-lexicon-fr
