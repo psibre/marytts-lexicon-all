@@ -4,3 +4,6 @@
 [submodule "marytts-lexicon-de"]
 	path = marytts-lexicon-de
 	url = https://github.com/marytts/marytts-lexicon-de.git
+[submodule "marytts-lexicon-en_US-cmudict"]
+	path = marytts-lexicon-en_US-cmudict
+	url = https://github.com/marytts/marytts-lexicon-en_US-cmudict.git
