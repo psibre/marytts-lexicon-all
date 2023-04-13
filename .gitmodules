@@ -22,3 +22,6 @@
 [submodule "marytts-lexicon-tr"]
 	path = marytts-lexicon-tr
 	url = https://github.com/marytts/marytts-lexicon-tr.git
+[submodule "marytts-lexicon-dsb"]
+	path = marytts-lexicon-dsb
+	url = https://github.com/marytts/marytts-lexicon-dsb.git

@@ -1,5 +1,6 @@
 includeBuild 'gradle-marytts-lexicon-compiler-plugin'
 include 'marytts-lexicon-de'
+include 'marytts-lexicon-dsb'
 include 'marytts-lexicon-en_US-cmudict'
 include 'marytts-lexicon-fr'
 include 'marytts-lexicon-it'
