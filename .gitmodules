@@ -9,10 +9,13 @@
 	url = https://github.com/marytts/marytts-lexicon-en_US-cmudict.git
 [submodule "marytts-lexicon-fr"]
 	path = marytts-lexicon-fr
-	url = https://github.com/marytts/marytts-lexicon-fr
+	url = https://github.com/marytts/marytts-lexicon-fr.git
 [submodule "marytts-lexicon-it"]
 	path = marytts-lexicon-it
 	url = https://github.com/marytts/marytts-lexicon-it.git
+[submodule "marytts-lexicon-lb"]
+	path = marytts-lexicon-lb
+	url = https://github.com/marytts/marytts-lexicon-lb.git
 [submodule "marytts-lexicon-ru"]
 	path = marytts-lexicon-ru
 	url = https://github.com/marytts/marytts-lexicon-ru.git
