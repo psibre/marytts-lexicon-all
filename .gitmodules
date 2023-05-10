@@ -28,3 +28,6 @@
 [submodule "marytts-lexicon-hsb"]
 	path = marytts-lexicon-hsb
 	url = https://github.com/marytts/marytts-lexicon-hsb.git
+[submodule "marytts-lexicon-pl"]
+	path = marytts-lexicon-pl
+	url = https://github.com/marytts/marytts-lexicon-pl.git
